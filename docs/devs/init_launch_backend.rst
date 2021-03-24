@@ -13,6 +13,7 @@ ou ``pyenv`` ou tout autre outil équivalent (ex: pyenv):
 
     cd backend
     sudo apt install python3-pip
+    sudo apt remove --purge python3-virtualenv virtualenv
     python3 -m pip install --upgrade --user virtualenv
     export PATH=/home/geonatadmin/.local/bin:$PATH
     virtualenv -p /usr/bin/python3 venv
