@@ -41,7 +41,7 @@ dépot (*origin*) et le dépot principal (*upstream*):
 
 .. code-block:: bash
 
-    $ git remove -v
+    $ git remote -v
 
     origin	git@github.com:YOUR_NAME/GeoNature-citizen.git (fetch)
     origin	git@github.com:YOUR_NAME/GeoNature-citizen.git (push)
