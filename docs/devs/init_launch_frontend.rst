@@ -126,7 +126,7 @@ ou:
 
 pour une version en langue anglaise.
 
-Tout est contenu dans le répertoire ``frontend/dist``, qu'il faut copier sur la plateforme acceuillant le service.
+Tout est contenu dans le répertoire ``frontend/dist``, qu'il faut copier sur la plateforme accueillant le service.
 
 
 

@@ -456,7 +456,7 @@ Il y a aussi des feuilles de style qui permettent de personnaliser la mise en pa
 
   src/custom/custom.css # tout le site
   src/custom/footer/footer.css # pied de page
-  src/custom/home/home.css # acceuil
+  src/custom/home/home.css # accueil
   src/custom/about/about.css # à propos
 
 Et des patrons HTML qui permettent de changer le contenu de certaines pages :
